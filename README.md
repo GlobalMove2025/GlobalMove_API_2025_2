@@ -48,7 +48,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|01 | 06/04/2025 | Concluído |
+|01 | 07/04/2025 | Concluído |
 |02|  dd/mm/aaaa| a fazer|
 |03| dd/mm/aaaa | a fazer|
 |04| dd/mm/aaaa |a fazer | 
