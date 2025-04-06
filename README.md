@@ -18,7 +18,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 | Product Owner |   Pessoa 1         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
 | Scrum Master  | Pessoa 2 |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
 | Team Member   | Acledson Jaime              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/acledsonjaime?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jaime082003)        |
-|  Team Member  | Pessoa 4                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Team Member  | Lucas Gabriel                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-soares-5a2188338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LUQUI22)        |
 |  Team Member  | Pessoa 5                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
 |  Team Member  | Pessoa 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 |  Team Member  | Pessoa 7                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
@@ -35,10 +35,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Comex Stat / Youtube / Slack
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Git Hub / Jira Software / Power BI / Excel
 
 # Backlog do produto
 
@@ -46,10 +46,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Registro das Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+Sprint | Previsão | Status|
+|------|--------|------|
+|01 | 06/04/2025 | Concluído |
+|02|  dd/mm/aaaa| a fazer|
+|03| dd/mm/aaaa | a fazer|
+|04| dd/mm/aaaa |a fazer | 
+|Feira de Soluções|dd/mm/aaaa |a fazer |
