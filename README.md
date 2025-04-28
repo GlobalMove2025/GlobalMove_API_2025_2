@@ -50,7 +50,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Sprint | Previsão | Status|
 |------|--------|------|
 |01 | 07/04/2025 | Concluído |
-|02|  05/05/2025| Em andamento |
+|02|  05/05/2025| Concluído |
 |03| 26/05/2025 | a fazer|
 |04| 17/06/2025 |a fazer | 
 |Feira de Soluções|23/06/2025 |a fazer |
