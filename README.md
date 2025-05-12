@@ -44,6 +44,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ![Backlog das Sprits (1)](https://github.com/user-attachments/assets/51eaf61b-5313-445d-b729-ca339860c537)
 
+# Visualização das sprints 
+
+
 # Registro das Sprints
 
 Sprint | Previsão | Status|
