@@ -55,6 +55,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ![Captura de tela 2025-05-12 195430](https://github.com/user-attachments/assets/aa7db961-a3f4-42ac-9387-9fcd7f57ab9b)
 
+
+# Apresentação interface Power BI
+
+
+![image](https://github.com/user-attachments/assets/f5c925f4-f910-40f9-b3e7-2cb0d485f462)
+
   
 # Registro das Sprints
 
