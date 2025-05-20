@@ -57,7 +57,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Sprint | Previsão | Status | MVP |
 |------|--------|------|------|
 |01 | 07/04/2025 | Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20194615.mp4?csf=1&web=1&e=BEZAOW) |
-|02|  05/05/2025| Concluído |
-|03| 26/05/2025 | Em anadamento |
-|04| 17/06/2025 |a fazer | 
-|Feira de Soluções|17/06/2025 |a fazer |
+|02|  05/05/2025| Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20200331.mp4?csf=1&web=1&e=eNofls) |
+|03| 02/06/2025 | Em andamento |[MVP]() |
+|04| 17/06/2025 |a fazer | [MVP]() |
+|Feira de Soluções|17/06/2025 |a fazer |[MVP]() |
