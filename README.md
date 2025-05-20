@@ -64,4 +64,4 @@ Sprint | Previsão | Status|
 |02|  05/05/2025| Concluído |
 |03| 26/05/2025 | Em anadamento |
 |04| 17/06/2025 |a fazer | 
-|Feira de Soluções|23/06/2025 |a fazer |
+|Feira de Soluções|17/06/2025 |a fazer |
