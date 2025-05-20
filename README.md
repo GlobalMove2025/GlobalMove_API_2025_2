@@ -45,22 +45,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ![Backlog das Sprits (1)](https://github.com/user-attachments/assets/51eaf61b-5313-445d-b729-ca339860c537)
 
 
-# MVP das sprints 
+# Apresentação interface Power BI
 
-* Sprint 1
 
-  ![Captura de tela 2025-05-12 193056](https://github.com/user-attachments/assets/7d17f2f3-4a58-4fbf-a510-f22ef78105c8)
+[Visualização](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Video%20apresenta%C3%A7%C3%A3o.mkv?csf=1&web=1&e=I4AJRn)
 
-* Sprint 2
-
-![Captura de tela 2025-05-12 195430](https://github.com/user-attachments/assets/aa7db961-a3f4-42ac-9387-9fcd7f57ab9b)
 
   
 # Registro das Sprints
 
-Sprint | Previsão | Status|
-|------|--------|------|
-|01 | 07/04/2025 | Concluído |
+Sprint | Previsão | Status | MVP |
+|------|--------|------|------|
+|01 | 07/04/2025 | Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20194615.mp4?csf=1&web=1&e=BEZAOW) |
 |02|  05/05/2025| Concluído |
 |03| 26/05/2025 | Em anadamento |
 |04| 17/06/2025 |a fazer | 
