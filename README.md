@@ -44,6 +44,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ![Backlog das Sprits (1)](https://github.com/user-attachments/assets/51eaf61b-5313-445d-b729-ca339860c537)
 
+
+# MVP das sprints 
+
+* Sprint 1
+
+  ![Captura de tela 2025-05-12 193056](https://github.com/user-attachments/assets/7d17f2f3-4a58-4fbf-a510-f22ef78105c8)
+
+* Sprint 2
+
+![Captura de tela 2025-05-12 195430](https://github.com/user-attachments/assets/aa7db961-a3f4-42ac-9387-9fcd7f57ab9b)
+
+  
 # Registro das Sprints
 
 Sprint | Previsão | Status|
