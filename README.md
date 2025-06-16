@@ -1,8 +1,13 @@
-# Aprendizado por Projeto Integrador (API)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a21c88ee-9095-44bd-9317-1abca83703eb" alt="Logo do Projeto" width="600"/>
+</p>
+
+# <img src="https://github.com/user-attachments/assets/d756c23f-ed13-4fdc-9872-6067807ce02c" width="40"/> Aprendizado por Projeto Integrador (API)
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
+# <img src="https://github.com/user-attachments/assets/12668546-5ced-4ca2-80b7-68021a8c29a6" width="40"/>  Índice
+ 
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -10,9 +15,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
-# Projeto (API) 
+# <img src="https://github.com/user-attachments/assets/d756c23f-ed13-4fdc-9872-6067807ce02c" width="40"/> Projeto (API) 
 O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional. 
-# Equipe
+
+# <img src="https://github.com/user-attachments/assets/99ddd68f-bea3-4111-8735-db49c08d00b9" width="40"/> Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Marco Rangel       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-rangel-abba5628/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcorangel73)              |
@@ -24,7 +30,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
 
 
-# Objetivo do Projeto
+# <img src="https://github.com/user-attachments/assets/756b17dd-bfe7-43b5-a487-4651b9db77fb" width="40"/> Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
@@ -49,7 +55,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * <img src="https://github.com/user-attachments/assets/b18e3546-4932-4fad-a2ca-2e194c1ab248" width="40"/> *Power BI*
 * <img src="https://github.com/user-attachments/assets/252e77a8-17aa-4ac5-a2c2-b7d02d0ffe90" width="40"/> *Excel*
 
-# Backlog do produto
+# <img src="https://github.com/user-attachments/assets/1ccefd1d-4bee-44b7-84f5-db4d03a7cbe7" width="40"/> Backlog do produto
 
 ![Backlog das Sprits (1)](https://github.com/user-attachments/assets/51eaf61b-5313-445d-b729-ca339860c537)
 
@@ -61,12 +67,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
   
-# Registro das Sprints
+# <img src="https://github.com/user-attachments/assets/aad11a7d-145f-4f60-b141-6b022d954dd2" width="40"/> Registro das Sprints
 
 Sprint | Previsão | Status | MVP |
 |------|--------|------|------|
 |01 | 07/04/2025 | Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20194615.mp4?csf=1&web=1&e=BEZAOW) |
 |02|  05/05/2025| Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20200331.mp4?csf=1&web=1&e=eNofls) |
 |03| 02/06/2025 | Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-06-02%20195636.mp4?csf=1&web=1&e=wE98xb) |
-|04| 17/06/2025 |Em andamento | [MVP]() |
-|Feira de Soluções|17/06/2025 | Em andamento |[MVP]() |
+|04| 17/06/2025 | Concluído | [MVP]() |
+|Feira de Soluções|17/06/2025 | Concluído |[MVP]() |
+
+-------------------------------------------------------------------
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
+</p>
+
