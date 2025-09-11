@@ -40,10 +40,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
  ### Tecnologias Específicas/Apoio
  
- * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAs9vpkzkkieKA5E4xChBvCIuq-51VULwpw&amp;s" width="40"/> *Comex stat*
  * <img src="https://pngdownload.io/wp-content/uploads/2023/12/YouTube-Logo-PNG-Symbol-for-Video-Platform-Transparent-jpg.webp" width="40"/> *Youtube*
- * <img src="https://static-00.iconduck.com/assets.00/slack-icon-2048x2048-sgl67hsi.png" width="40"/> *Slack*
- * <img src="https://github.com/user-attachments/assets/0cf820df-0319-4fd9-9412-6463c1b74a61" width="40"/> *Teams*
+  * <img src="https://github.com/user-attachments/assets/0cf820df-0319-4fd9-9412-6463c1b74a61" width="40"/> *Teams*
 
 
  ### Tecnologias da Informação
@@ -51,11 +49,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * <img src="https://img.favpng.com/13/12/10/github-pages-logo-computer-icons-png-favpng-ew8sjnZfG8RsyhJNBTL2Dw3SR.jpg" width="40"/> *GitHub*
 * <img src="https://toppng.com/uploads/preview/jira-software-logo-jira-software-logo-11562914188wp8r59nt10.png" width="40"/> *Jira Software*
 * <img src="https://github.com/user-attachments/assets/b18e3546-4932-4fad-a2ca-2e194c1ab248" width="40"/> *Power BI*
-* <img src="https://github.com/user-attachments/assets/252e77a8-17aa-4ac5-a2c2-b7d02d0ffe90" width="40"/> *Excel*
 
 # <img src="https://github.com/user-attachments/assets/1ccefd1d-4bee-44b7-84f5-db4d03a7cbe7" width="40"/> Backlog do produto
-
-![Backlog das Sprits (1)](https://github.com/user-attachments/assets/51eaf61b-5313-445d-b729-ca339860c537)
 
 
 # Apresentação interface Power BI
