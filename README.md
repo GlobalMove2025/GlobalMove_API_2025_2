@@ -57,7 +57,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Apresentação interface Power BI
 
 
-[Visualização](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Video%20apresenta%C3%A7%C3%A3o.mkv?csf=1&web=1&e=I4AJRn)
 
 
   
