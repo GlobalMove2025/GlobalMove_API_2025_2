@@ -65,11 +65,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status | MVP |
 |------|--------|------|------|
-|01 | 07/04/2025 | Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20194615.mp4?csf=1&web=1&e=BEZAOW) |
-|02|  05/05/2025| Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20200331.mp4?csf=1&web=1&e=eNofls) |
-|03| 02/06/2025 | Concluído |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-06-02%20195636.mp4?csf=1&web=1&e=wE98xb) |
-|04| 17/06/2025 | Concluído | [MVP]() |
-|Feira de Soluções|17/06/2025 | Concluído |[MVP]() |
+|01 | 01/10/2025 | Em Andamento |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20194615.mp4?csf=1&web=1&e=BEZAOW) |
+|02|  22/10/2025| Não iniciado |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-05-12%20200331.mp4?csf=1&web=1&e=eNofls) |
+|03| 19/11/2025 | Não iniciado |[MVP](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Gravando%202025-06-02%20195636.mp4?csf=1&web=1&e=wE98xb) |
+|Feira de Soluções|04/12/2025 | Não iniciado |[MVP]() |
 
 -------------------------------------------------------------------
 <p align="center">
