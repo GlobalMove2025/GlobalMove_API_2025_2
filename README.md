@@ -8,7 +8,7 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
+# <img src="https://github.com/user-attachments/assets/12668546-5ced-4ca2-80b7-68021a8c29a6" width="40"/> Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
