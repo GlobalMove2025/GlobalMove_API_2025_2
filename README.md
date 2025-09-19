@@ -1,4 +1,8 @@
-# Aprendizado por Projeto Integrado (API) - Template
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a21c88ee-9095-44bd-9317-1abca83703eb" alt="Logo do Projeto" width="600"/>
+</p>
+
+# <img src="https://github.com/user-attachments/assets/d756c23f-ed13-4fdc-9872-6067807ce02c" width="40"/> Aprendizado por Projeto Integrador (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
