@@ -2,13 +2,13 @@
   <img src="https://github.com/user-attachments/assets/a21c88ee-9095-44bd-9317-1abca83703eb" alt="Logo do Projeto" width="600"/>
 </p>
 
-# <img src="https://github.com/user-attachments/assets/d756c23f-ed13-4fdc-9872-6067807ce02c" width="40"/> Aprendizado por Projeto Integrador (API) - Template
+# <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="40"/> Aprendizado por Projeto Integrador (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# <img src="https://github.com/user-attachments/assets/12668546-5ced-4ca2-80b7-68021a8c29a6" width="40"/> Índice
+# <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
@@ -16,12 +16,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# Projeto (API) 
+# <img src="https://cdn-icons-png.flaticon.com/512/8488/8488719.png" width="40"/> Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
-# <img src="https://github.com/user-attachments/assets/99ddd68f-bea3-4111-8735-db49c08d00b9" width="40"/> Equipe
+# <img src="https://cdn-icons-png.flaticon.com/512/15752/15752286.png" width="40"/> Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Rafael Sendrette      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodrigues-sendrette-gomes-ba0306301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelSendrette)          |
@@ -32,7 +32,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Leonardo Rodolfo                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodolfo-b931a0318?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/leonardorodolfo)   |    
 
 
-# Objetivo do Projeto
+# <img src="https://cdn-icons-png.flaticon.com/512/1087/1087807.png" width="40"/> Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
@@ -53,7 +53,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-# Product Backlog
+# <img src="https://cdn-icons-png.flaticon.com/512/4727/4727546.png" width="40"/> Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
