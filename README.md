@@ -2,11 +2,13 @@
   <img src="https://github.com/user-attachments/assets/a21c88ee-9095-44bd-9317-1abca83703eb" alt="Logo do Projeto" width="600"/>
 </p>
 
+
 # <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="40"/> Aprendizado por Projeto Integrador (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+
 
 # <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -20,6 +22,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+
 
 # <img src="https://cdn-icons-png.flaticon.com/512/15752/15752286.png" width="40"/> Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -53,7 +56,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
+
 # <img src="https://cdn-icons-png.flaticon.com/512/4727/4727546.png" width="40"/> Product Backlog
+
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
