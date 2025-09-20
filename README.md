@@ -68,7 +68,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
   
-# Registro das Sprints
+# <img src="https://img.freepik.com/premium-vector/business-checklist-icon-vector-14_666870-2246.jpg" width="40"/> Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
@@ -76,4 +76,5 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+
 
