@@ -35,7 +35,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Leonardo Rodolfo                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodolfo-b931a0318?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/leonardorodolfo)   |    
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/1087/1087807.png" width="40"/> #Objetivo do Projeto
+# Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
@@ -57,7 +57,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/4727/4727546.png" width="40"/> # Product Backlog
+# Product Backlog
 
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                                                      | Estimativa | Sprint |
@@ -84,7 +84,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
   
-<img src="https://img.freepik.com/premium-vector/business-checklist-icon-vector-14_666870-2246.jpg" width="40"/> # Registro das Sprints
+# Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
