@@ -3,7 +3,7 @@
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Cria uma base de dados para criação do Dashboard  
-- Dados tratados e visualizados em um Dashboard nno Power BI
+- Dados tratados e visualizados em um Dashboard no Power BI
 - Informações confiaveis para analise macro dos transportes nos últimos anos
 
 ---
