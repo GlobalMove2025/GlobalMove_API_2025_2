@@ -1,18 +1,18 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Coleta e tratamento dos dados:  
+- Cria uma base de dados para criação do Dashboard  
+- Dados tratados e visualizados em um Dashboard nno Power BI
+- Informações confiaveis para analise macro dos transportes nos últimos anos
 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Codigo Python para coleta e tratamento dos dados, conexão dos dados no Power BI
+- Dashboard inicial tera funcionalidades básicas
+- Dashboard no Power BI com informações gerais sobre transporte de cargas perigosas
 
 ---
 
