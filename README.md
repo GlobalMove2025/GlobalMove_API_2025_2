@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](Equipe)
+* [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
@@ -24,7 +24,7 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 
-# <img src="https://cdn-icons-png.flaticon.com/512/15752/15752286.png" width="40"/> Equipe
+<img src="https://cdn-icons-png.flaticon.com/512/15752/15752286.png" width="40"/> # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Rafael Sendrette      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodrigues-sendrette-gomes-ba0306301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelSendrette)          |
@@ -35,7 +35,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Leonardo Rodolfo                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodolfo-b931a0318?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/leonardorodolfo)   |    
 
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1087/1087807.png" width="40"/> Objetivo do Projeto
+<img src="https://cdn-icons-png.flaticon.com/512/1087/1087807.png" width="40"/> # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
@@ -57,7 +57,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-# <img src="https://cdn-icons-png.flaticon.com/512/4727/4727546.png" width="40"/> Product Backlog
+<img src="https://cdn-icons-png.flaticon.com/512/4727/4727546.png" width="40"/> # Product Backlog
 
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                                                      | Estimativa | Sprint |
@@ -84,7 +84,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
   
-# <img src="https://img.freepik.com/premium-vector/business-checklist-icon-vector-14_666870-2246.jpg" width="40"/> Registro das Sprints
+<img src="https://img.freepik.com/premium-vector/business-checklist-icon-vector-14_666870-2246.jpg" width="40"/> # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
