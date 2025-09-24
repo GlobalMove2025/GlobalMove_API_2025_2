@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
+* [Equipe](Equipe)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
