@@ -2,9 +2,8 @@
 
 ## 🎯 Objetivo do MVP
 > Desenvolver uma ferramenta de Power Bi que apresente o tratamento de dados do IBAMA para cargas especiais para analisar os indicadores de movimentação de cargas.
-- Cria uma base de dados para criação do Dashboard  
+- Criar uma base de dados para criação do Dashboard  
 - Dados tratados e visualizados em um Dashboard no Power BI
-- Informações confiaveis para analise macro dos transportes nos últimos anos
 
 ---
 
