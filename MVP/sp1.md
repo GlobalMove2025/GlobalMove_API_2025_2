@@ -1,10 +1,9 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Desenvolvimento de um dashboard interativo com dados agregados de fluxo de cargas especiais e perigosas (no Power BI).
 
 ## 🎯 Objetivo do MVP
-> Coleta e tratamento dos dados:  
-- Cria uma base de dados para criação do Dashboard  
-- Dados tratados e visualizados em um Dashboard nno Power BI
-- Informações confiaveis para analise macro dos transportes nos últimos anos
+> Desenvolver uma ferramenta de Power Bi que apresente o tratamento de dados do IBAMA para cargas especiais para analisar os indicadores de movimentação de cargas.
+- Fazer tratamento de dados para criação do Dashboard  
+- Dados tratados e visualizados em um Dashboard no Power BI
 
 ---
 
@@ -17,8 +16,9 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Analista de logística: Representado pelo coordenador do curso prof. Marcus Vinicius do Nascimento** 
+- **Fiscalizador do IPEM: Representado pelo diretor do LIQ André Luiz Pereira de Moraes** 
+- **
 
 ---
 
