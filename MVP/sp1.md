@@ -39,6 +39,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Dashboard com funcionlidades básicas | Concluído|
+| 01     | Filtro com informações sobre transporte de cargas perigosas | Concluído|
 
 
 ---
