@@ -15,7 +15,7 @@
 ## 👥 Personas / Usuários-Alvo
 - **Analista de logística: Representado pelo coordenador do curso prof. Marcus Vinicius do Nascimento** 
 - **Fiscalizador do IPEM: Representado pelo diretor do LIQ André Luiz Pereira de Moraes** 
-- **
+
 
 ---
 
