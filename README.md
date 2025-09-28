@@ -85,7 +85,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
   
-# Registro das Sprints
+# <img src="https://cdn-icons-png.flaticon.com/512/7063/7063060.png" width="40"/> Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
