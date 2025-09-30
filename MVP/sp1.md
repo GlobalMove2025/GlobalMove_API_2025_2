@@ -27,11 +27,9 @@
 | US3 | Como um fiscalizador do IPEM, eu quero identificar as principais empresas movimentadoras de cargas perigosas com declaração realizada, para que possamos direcionar ações de fiscalização e regulamentação de forma mais eficaz. |   Alta   |  2  |
 | US4 | Como um analista de logística, eu quero identificar os principais modais de transporte utilizados para cargas especiais e perigosas, para que eu possa avaliar a eficiência, a adequação da infraestrutura e as opções logísticas. |   Alta   |  2  |
 | US5 | Como um formulador de políticas públicas, eu quero ter acesso a dados agregados de fluxo de cargas e modais, para que eu possa fundamentar a formulação de políticas de transporte mais eficazes e sustentáveis. |   Alta   |  2  |
-| US6 | Como um analista de logística, eu quero identificar as localidades com maiores incidências de acidentes viários envolvendo veículos pesados, para que eu possa mapear pontos de risco e sugerir melhorias na segurança rodoviária. |   Alta   |  2  |
-| US7 | Como um pesquisador acadêmico, eu quero acessar dados sobre acidentes viários, para que eu possa realizar estudos aprofundados sobre segurança e risco no transporte de cargas. |   Alta   |  2  |
-| US8 | Como um analista, eu quero que a visualização dos dados seja segmentada por região, para que eu possa focar minha análise em áreas geográficas específicas de interesse |   Alta   |  2  |
-| US9 | Como um analista, eu quero ter acesso a dados tratados, normalizados e atualizados do IBAMA, para que eu possa confiar na precisão das análises e gerar recomendações robustas e bem fundamentadas. |   Alta   |  2  |
-| US10 | Como um fiscalizador do IPEM, eu quero que o sistema utilize dados de movimentação de cargas registrados pelo IBAMA no período de 2013 a 2023, para garantir a conformidade regulatória e a relevância das informações analisadas. |   Alta   |  2  |
+| US6 | Como um analista, eu quero que a visualização dos dados seja segmentada por região, para que eu possa focar minha análise em áreas geográficas específicas de interesse |   Alta   |  2  |
+| US7 | Como um analista, eu quero ter acesso a dados tratados, normalizados e atualizados do IBAMA, para que eu possa confiar na precisão das análises e gerar recomendações robustas e bem fundamentadas. |   Alta   |  2  |
+| US8 | Como um fiscalizador do IPEM, eu quero que o sistema utilize dados de movimentação de cargas registrados pelo IBAMA no período de 2013 a 2023, para garantir a conformidade regulatória e a relevância das informações analisadas. |   Alta   |  2  |
 
 ---
 
