@@ -3,9 +3,14 @@
 </p>
 
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="40"/> Aprendizado por Projeto Integrador (API) - Template
+# <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="40"/> Aprendizado por Projeto Integrador (API) 
 
-A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
+A aprendizagem baseada em projetos integradores utiliza uma abordagem dinâmica e interativa, alinhada aos princípios das metodologias ágeis. Nesse modelo, os alunos constroem conhecimentos e desenvolvem habilidades ao participar de projetos práticos organizados em ciclos de planejamento, execução e avaliação. A interdisciplinaridade é um dos pilares desse processo, pois permite integrar diferentes áreas do conhecimento na resolução colaborativa de problemas reais. Dessa forma, estimula-se a adaptação contínua, o pensamento crítico e a entrega progressiva de resultados.
+
+# Learning by Integrative Project (API) 
+
+Learning based on integrative projects uses a dynamic and interactive approach, aligned with the principles of agile methodologies. In this model, students build knowledge and develop skills by participating in practical projects organized into cycles of planning, execution and evaluation. Interdisciplinarity is one of the pillars of this process, as it allows the integration of different areas of knowledge in the collaborative resolution of real problems. In this way, continuous adaptation, critical thinking and the progressive delivery of results are encouraged.
+
 
 # <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
