@@ -53,6 +53,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 * <img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" width="40"/> Mysql
 
 
+# <img src="https://cdn-icons-png.flaticon.com/512/10645/10645636.png" width="40"/> Resultado esperado
+
+Entrega de um dashboard interativo no Power BI, com dados atualizados sobre cargas especiais e perigosas, permitindo análises por tipo de carga, modal de transporte, origem e destino, além de localização geográfica. A solução inclui scripts desenvolvidos em Python, documentação técnica completa e relatório analítico, oferecendo suporte a decisões estratégicas e à elaboração de políticas públicas.
 
 
 # Product Backlog
