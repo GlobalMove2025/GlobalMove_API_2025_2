@@ -39,7 +39,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1087/1087807.png" width="40"/> Objetivo do Projeto
-* Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados de movimentação de cargas especiais e perigosas, com base nos registros do IBAMA. A ferramenta deverá possibilitar a análise de indicadores estratégicos, como tipos de cargas transportadas, principais modais utilizados, origem e destino (matriz OD), além de métricas segmentadas por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, planejamento logístico e monitoramento ambiental relacionado ao transporte dessas cargas.
+ Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados de movimentação de cargas especiais e perigosas, com base nos registros do IBAMA. A ferramenta deverá possibilitar a análise de indicadores estratégicos, como tipos de cargas transportadas, principais modais utilizados, origem e destino (matriz OD), além de métricas segmentadas por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, planejamento logístico e monitoramento ambiental relacionado ao transporte dessas cargas.
 
 
 ## Tecnologias Utilizadas
