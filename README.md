@@ -88,8 +88,8 @@ Entrega de um dashboard interativo no Power BI, com dados atualizados sobre carg
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 01/10/2025 | concluído  | [MVP](MVP/sp1.md)  |
-| 02                | 22/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 19/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 02                | 22/10/2025 | concluído  | [MVP](MVP/sp2.md)  |
+| 03                | 19/11/2025 | Em andamento | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
 
