@@ -17,9 +17,9 @@ Learning based on integrative projects uses a dynamic and interactive approach, 
 * [Equipe](#Equipe)
 * [Objetivo do Projeto](#Objetivo_do_Projeto)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-* [Resultado previsto](#Resultado-previsto)
-* [Product Backlog](#Product-Backlog)
-* [Registro das Sprints](#Registro-das-Sprints)
+* [Resultado previsto](#Resultado_previsto)
+* [Product Backlog](#Product_Backlog)
+* [Registro das Sprints](#Registro_das_Sprints)
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/8488/8488719.png" width="40"/> Projeto (API) 
