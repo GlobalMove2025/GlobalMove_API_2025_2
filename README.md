@@ -13,10 +13,12 @@ Learning based on integrative projects uses a dynamic and interactive approach, 
 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/3597/3597194.png" width="40"/> Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Projeto (API)](#Projeto(API) )
 * [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Objetivo do Projeto](#Objetivo-do-Projeto)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+* [Resultado previsto](#Resultado-previsto)
+* [Product Backlog](#Product-Backlog)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
@@ -51,7 +53,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 * <img src="https://pngimg.com/uploads/mysql/small/mysql_PNG11.png" width="40"/> Mysql
 
 
-# <img src="https://cdn-icons-png.flaticon.com/512/10645/10645636.png" width="40"/> Resultado esperado
+# <img src="https://cdn-icons-png.flaticon.com/512/10645/10645636.png" width="40"/> Resultado previsto
 
 Entrega de um dashboard interativo no Power BI, com dados atualizados sobre cargas especiais e perigosas, permitindo análises por tipo de carga, modal de transporte, origem e destino, além de localização geográfica. A solução inclui scripts desenvolvidos em Python, documentação técnica completa e relatório analítico, oferecendo suporte a decisões estratégicas e à elaboração de políticas públicas.
 
