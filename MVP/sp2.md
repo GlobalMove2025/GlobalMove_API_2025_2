@@ -14,7 +14,6 @@
 
 ## 👥 Personas / Usuários-Alvo
 - **Analista de logística: Representado pelo coordenador do curso prof. Marcus Vinicius do Nascimento** 
-- **Como um pesquisador acadêmico: Representado pelo acadêmico Marco Anitônio Borim Rangel** 
 
 
 ---
@@ -23,7 +22,7 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como um analista de logística, eu quero identificar as localidades com maiores incidências de acidentes viários envolvendo veículos pesados, para que eu possa mapear pontos de risco e sugerir melhorias na segurança rodoviária. | Alta       |   2 |
-| US2 | Como um pesquisador acadêmico, eu quero acessar dados sobre acidentes viários, para que eu possa realizar estudos aprofundados sobre segurança e risco no transporte de cargas. |   Alta    |  2  |
+| US2 |Como um analista de logística, eu quero acessar dados sobre acidentes viários, para que eu possa realizar estudos aprofundados sobre segurança e risco no transporte de cargas. |   Alta    |  2  |
 | US3 | Como um analista de logística, eu quero visualizar a movimentação de cargas por estado e nacionalmente, para que eu possa identificar regiões de alta demanda ou particularidades logísticas. |   Alta    |  2  |
 | US4 | Como um analista de logística, eu quero visualizar a matriz Origem-Destino (OD) das cargas, para que eu possa entender os fluxos logísticos predominantes e identificar potenciais gargalos ou oportunidades de otimização. |   Alta    |  2  |
 | US5 | Como um analista de logística, eu quero saber as distâncias entre os locais de maiores acidentes e os pontos de parada de descanso, para que eu possa avaliar a adequação da rede de apoio ao transporte e a influência da fadiga do motorista. |   Alta    |  2  |
