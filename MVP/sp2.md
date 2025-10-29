@@ -33,8 +33,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02    | em andamento| Concluído|
-| 02    | em andamento | Concluído|
+| 02    | Tela com dados sobre acidentes rodoviários no estados de São Paulo| Concluído|
+| 02    | Gráficos e filtros sobre os acidentes no estados de São Paulo | Concluído|
 
 
 ---
