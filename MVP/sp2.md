@@ -7,7 +7,8 @@
 ---
 
 ## 📝 Descrição da Solução
-> 
+> Inicialmente desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, base de dados referentes a acidentes no estado de São Paulo
+
 
 ---
 
