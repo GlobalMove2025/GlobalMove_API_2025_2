@@ -7,7 +7,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Inicialmente desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, base de dados referentes a acidentes no estado de São Paulo
+> Inicialmente desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, base de dados referentes a acidentes no estado de São Paulo.
 
 
 ---
@@ -43,8 +43,8 @@
 - A primeira tela dar uma visão geral das cargas perigosas transportadas, a nível nacional.
 - Nela será possível acessar aos filtros por: ano, estado de origem e estado de destino.
 - Será possível também visualizar quais cargas mais transportadadas e quais modais mais ultilizados.
-- Já na segunda tela, vai ser possível visualizar apenas as cargas, podendo filtrar por: produtos, tipo de transporte e a matriz O/D
-- 
+- Já na segunda tela, vai ser possível visualizar apenas as cargas, podendo filtrar por: produtos, tipo de transporte e a matriz O/D.
+- Na terceira tela será possível ver a analise detalhada de acidentes no estado de São Paulo, podendo filtrar por cidade, local e tipo de acidentes, por meio de gráficos dinâmicos.
 
 
 
