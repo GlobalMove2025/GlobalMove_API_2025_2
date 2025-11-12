@@ -78,7 +78,7 @@ Entrega de um dashboard interativo no Power BI, com dados atualizados sobre carg
 | 13   | Média           | Como um analista de logística, eu quero saber as distâncias entre os locais de maiores acidentes e os pontos de parada de descanso, para que eu possa avaliar a adequação da rede de apoio ao transporte e a influência da fadiga do motorista. | 2           | 2      |
 | 14   | Média           | Como um analista, eu quero visualizar os dados através de mapas e gráficos de tendência, para que eu possa interpretar as informações de forma mais clara, visual e interativa.                                                                 | 2           | 2      |
 | 15   | Baixa           | Como um analista, eu quero um dashboard responsivo, para que eu possa acessá-lo de diferentes dispositivos (computador, tablet, etc.) e ter uma boa experiência de visualização em qualquer tela.                                               | 2           | 3      |
-| 16   | Baixa           | Como um usuário do dashboard, eu quero uma interface limpa e com navegação intuitiva (poucos cliques), para que eu possa encontrar as informações que preciso rapidamente e com facilidade.                                                     | 2          | 3      |
+| 16   | Baixa           | Como um analista, eu quero uma interface limpa e com navegação intuitiva (poucos cliques), para que eu possa encontrar as informações que preciso rapidamente e com facilidade.                                                     | 2          | 3      |
 
 
 
