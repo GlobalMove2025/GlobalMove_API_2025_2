@@ -21,8 +21,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como um analista, eu quero um dashboard responsivo, para que eu possa acessá-lo de diferentes dispositivos (computador, tablet, etc.) e ter uma boa experiência de visualização em qualquer tela. | Baixa | 2 |
+| US2 | Como um analista, eu quero uma interface limpa e com navegação intuitiva (poucos cliques), para que eu possa encontrar as informações que preciso rapidamente e com facilidade. | Baixa | 2 |
 
 ---
 
