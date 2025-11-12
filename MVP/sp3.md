@@ -34,10 +34,12 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]   
-
+- A primeira tela dar uma visão geral das cargas perigosas transportadas, a nível nacional.
+- Nela será possível acessar aos filtros por: ano, estado de origem e estado de destino.
+- Será possível também visualizar quais cargas mais transportadadas e quais modais mais ultilizados.
+- Já na segunda tela, vai ser possível visualizar apenas as cargas, podendo filtrar por: produtos, tipo de transporte e a matriz O/D.
+- Na terceira tela será possível ver a analise detalhada de acidentes no estado de São Paulo, podendo filtrar por cidade, local e tipo de acidentes, por meio de gráficos dinâmicos.
+  
 ---
 
 ## 🚀 Próximos Passos
