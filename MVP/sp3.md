@@ -1,11 +1,7 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP -  Desenvolvimento de um dashboard interativo com dados agregados de fluxo de cargas especiais e perigosas (no Power BI).
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+> Desenvolver uma ferramenta de Power Bi que apresente o tratamento de dados do IBAMA para cargas especiais para analisar os indicadores de movimentação de cargas.
 ---
 
 ## 📝 Descrição da Solução
