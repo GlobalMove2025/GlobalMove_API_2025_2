@@ -13,8 +13,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Analista de logística: Representado pelo coordenador do curso prof. Marcus Vinicius do Nascimento** 
 
 ---
 
