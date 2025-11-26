@@ -25,8 +25,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |                    | Concluído |
-| 02     |                    | Concluído |
+| 01     | Tela com os dados das fiscalização das transportadoras | Concluído |
+| 02     | Tabela com a situação cadastral e cargas tranportada em cada UF - por transporatadora | Concluído |
 
 ---
 
