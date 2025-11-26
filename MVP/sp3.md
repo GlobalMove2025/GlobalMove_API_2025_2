@@ -54,6 +54,8 @@
 
 <img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/5e07ef2b-1adf-4ee5-a5ed-f9b8a2c8bbc1" />
 
+[Vídeo]([Vídeo](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/2025-10-19%2018-42-33%20(1).mkv?csf=1&web=1&e=BLEZ8V) 
+) 
 
 
 
