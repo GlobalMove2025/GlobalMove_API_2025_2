@@ -52,7 +52,7 @@
 
 <img width="910" height="520" alt="image" src="https://github.com/user-attachments/assets/fbfed506-890e-48f7-b16f-2570d1566866" />
 
-<img width="960" height="535" alt="Captura de tela 2025-11-26 220148" src="https://github.com/user-attachments/assets/7c4c1584-68d9-4f45-a409-e1bc3d3f4e4d" />
+<img width="960" height="536" alt="Captura de tela 2025-11-26 220157" src="https://github.com/user-attachments/assets/9bffab08-2d4e-436b-8185-b8c1d3a8a77d" />
 
 
 [Vídeo](https://fatecspgov-my.sharepoint.com/:v:/r/personal/acledson_soares_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Grava%C3%A7%C3%A3o%20de%20Tela%202025-11-25%20211555.mp4?csf=1&web=1&e=C8RcAF) 
